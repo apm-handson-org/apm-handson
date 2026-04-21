@@ -4,6 +4,6 @@ description: APM project for apm-handson
 author: ry0y4n
 dependencies:
   apm:
-  - microsoft/apm-sample-package#v1.0.0
+  - github/awesome-copilot/plugins/context-engineering#63d08d51f792d53feec8c1c06897cee870e83c18
   mcp: []
 scripts: {}
