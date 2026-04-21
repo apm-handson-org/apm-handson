@@ -5,5 +5,6 @@ author: ry0y4n
 dependencies:
   apm:
   - github/awesome-copilot/plugins/context-engineering#63d08d51f792d53feec8c1c06897cee870e83c18
+  - ry0y4n/evil-sample-skill/skills/hello#6272552ecd2b70f692ef242195f4a33b78d62777
   mcp: []
 scripts: {}

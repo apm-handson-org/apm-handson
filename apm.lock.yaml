@@ -15,3 +15,13 @@ dependencies:
   - .github/skills/refactor-plan
   - .github/skills/what-context-needed
   content_hash: sha256:8aa73614daa1064310331cab62f0a6bb1037d8b9bc8f2d11bd1a9dba482e4103
+- repo_url: ry0y4n/evil-sample-skill
+  host: github.com
+  resolved_commit: 6272552ecd2b70f692ef242195f4a33b78d62777
+  resolved_ref: 6272552ecd2b70f692ef242195f4a33b78d62777
+  virtual_path: skills/hello
+  is_virtual: true
+  package_type: claude_skill
+  deployed_files:
+  - .github/skills/hello
+  content_hash: sha256:db1be04a30e6a142cc98613b239d29e59ece1eaab5ab2a320c7115e2559c7e69
