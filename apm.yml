@@ -1,0 +1,9 @@
+name: apm-handson
+version: 1.0.0
+description: APM project for apm-handson
+author: ry0y4n
+dependencies:
+  apm:
+  - microsoft/apm-sample-package#v1.0.0
+  mcp: []
+scripts: {}
